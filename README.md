@@ -1,4 +1,4 @@
-Please go under edit and edit this file as needed for your project
+
 
 # Project Name - Optical and Eye Channeling Management System.
 
